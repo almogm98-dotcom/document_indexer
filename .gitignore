@@ -1,0 +1,19 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDEs
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+
+# Local files
+sample.docx
+
